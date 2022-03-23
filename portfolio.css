@@ -1,0 +1,84 @@
+header{
+    background-color: blueviolet;
+   
+}
+
+
+
+hr{
+   border: 2px solid black;
+}
+
+header>div>a{
+    color: aqua;
+    text-decoration: none;
+    font-size: larger;
+    justify-content: center;
+    display: inline-block;
+}
+
+a:hover{
+    color: whitesmoke;
+}
+
+h2{
+    
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    border-radius: 20px;
+    border-color: black;
+}
+
+body{
+    background-color: darkcyan;
+}
+
+*{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#p1{
+   font-style: bold;
+   font-size: xx-large;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+.p1{
+    font-size: larger;
+    color: aquamarine;
+}
+
+h2{
+    color: aqua;
+}
+
+.a1>p{
+    color: brown;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.a2>h3{
+    color:purple;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.a2>h4{
+    color:darkolivegreen;
+}
+
+.a3>p{
+    color: darkblue;
+    font-size: larger;
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 25px;
+}
+
